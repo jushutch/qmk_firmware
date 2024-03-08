@@ -3,6 +3,9 @@
 /* Define index of dragon key */
 #define DRAGON_KEY_INDEX 60
 
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+#define CAPS_WORD_INVERT_ON_SHIFT
+
 /* RGB Matrix Configuration */
 #ifdef RGB_MATRIX_ENABLE
 #    define RGB_DISABLE_WHEN_USB_SUSPENDED
